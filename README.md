@@ -25,3 +25,17 @@ As a frontend developer, I thrive on bringing designs to life and creating engag
 <a href="http://www.github.com/nick-shaydayuk"><img src="https://github-readme-stats.vercel.app/api?username=nick-shaydayuk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nick-shaydayuk's GitHub stats" /></a>
 
 <a href="https://github.com/nick-shaydayuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-shaydayuk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### My projects
+  ##### Practices/Study:
+  
+  Arrays: https://github.com/nick-shaydayuk/array-practice
+  
+  Objects: https://github.com/nick-shaydayuk/objectPractice
+  
+  Functions: https://github.com/nick-shaydayuk/HOFunctionsPractice
+  
+  Unit-testing with Jest: https://github.com/nick-shaydayuk/testPractice
+  
+  Tree agregation/Recursion: https://github.com/nick-shaydayuk/treePractice
+  
