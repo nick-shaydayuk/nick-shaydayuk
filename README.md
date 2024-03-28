@@ -1,8 +1,8 @@
 Hi! My name is Nick Shaydayuk ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Frontend developer
-------------------
+I'm Frontend developer
+----------------------
 
 As a frontend developer, I thrive on bringing designs to life and creating engaging user experiences. I have a keen eye for detail and a passion for clean, efficient code. My expertise lies in HTML, CSS, and TypeScript, and I love working with frameworks like Vue and React to build dynamic and interactive interfaces.
 
