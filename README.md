@@ -28,6 +28,12 @@ As a frontend developer, I thrive on bringing designs to life and creating engag
 
 ### My projects
 ---------------
+
+  >#### Todo list https://github.com/nick-shaydayuk/basedTodoList
+  >> Built with Vue 3 Composition API
+
+  ---
+
   #### My own education:
   
   >1. __JSON and YML difference calculator:__ https://github.com/nick-shaydayuk/frontend-project-46
