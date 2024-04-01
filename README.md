@@ -27,7 +27,24 @@ As a frontend developer, I thrive on bringing designs to life and creating engag
 <a href="https://github.com/nick-shaydayuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-shaydayuk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### My projects
-  ##### Practices/Study:
+---------------
+  #### My own education:
+  
+  >1. __JSON and YML difference calculator:__ https://github.com/nick-shaydayuk/frontend-project-46
+  >
+  >>__Console program, that shows difference between two JSON or YML files__
+  >
+  >2. __Brain-games:__ https://github.com/nick-shaydayuk/frontend-project-44
+  >
+  >>__Some easy-to-code console games__
+  >
+  >3. __Fullstack mesto project:__ https://github.com/nick-shaydayuk/react-mesto-api-full
+  >
+  >>__Instagram-like fullstack application. Includes authentification, likes, posts and profiles services__
+
+  ---
+  #### Practices/Study:
+
   
   Arrays: https://github.com/nick-shaydayuk/array-practice
   
