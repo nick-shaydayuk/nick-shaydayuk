@@ -41,6 +41,10 @@ As a frontend developer, I thrive on bringing designs to life and creating engag
   >3. __Fullstack mesto project:__ https://github.com/nick-shaydayuk/react-mesto-api-full
   >
   >>__Instagram-like fullstack application. Includes authentification, likes, posts and profiles services__
+  >
+  >4. __Russian travel:__ https://github.com/nick-shaydayuk/russian-travel
+  >
+  >>__HTML and CSS landing for a some kind of tour operator__
 
   ---
   #### Practices/Study:
